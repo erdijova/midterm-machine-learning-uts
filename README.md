@@ -1,3 +1,7 @@
+* Name : ERDI JOVA PRADANA
+* Class : TK-47-04
+* NIM : 101032300027
+
 # Fraud Detection Machine Learning Project
 
 ## 📌 Project Overview
@@ -143,10 +147,6 @@ jupyter notebook
 
 ---
 
-
-* Name : ERDI JOVA PRADANA
-* Class : TK-47-04
-* NIM : 101032300027
 
 ---
 
